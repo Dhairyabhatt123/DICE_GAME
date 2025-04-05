@@ -1,3 +1,5 @@
+Demo Link- https://dhairya-dice-game.vercel.app/
+
 Dice Game in React
 A simple and interactive dice game built with React. The objective of the game is to select a number between 1 and 6, roll the dice, and update the score based on whether the rolled number matches the selected number.
 
