@@ -22,20 +22,3 @@ Roll the dice and get a random result between 1 and 6.
 The score is updated based on whether the rolled number matches the selected number.
 
 Built using React to demonstrate state management and event handling.
-
-Installation
-To run this project locally, follow these steps:
-1. Clone the repository
-2. cd dice-game
-3. npm install
-
-Technologies Used
-React: For building the interactive UI and managing state.
-
-CSS: For styling the game interface.
-
-Contributing
-Feel free to fork the repository, create a pull request, or suggest improvements.
-
-License
-This project is open source and available under the MIT License.
